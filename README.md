@@ -21,7 +21,7 @@ Understanding authentication is a fundamental aspect of web development. This pr
 First, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/Dreww01/fast-api-authentication.git
+git clone https://github.com/dreww01/fast-api-authentication.git
 cd fast-api-authentication
 pip install -r requirements.txt
 ```
